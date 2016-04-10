@@ -1,0 +1,1 @@
+Just simple Decorator Demo
