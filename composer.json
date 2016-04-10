@@ -1,0 +1,11 @@
+{
+    "name": "lavstanis/chat-with-name",
+    "description": "just chat with socket io and npm modules",
+    "version": "1.0",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Application\\": "src/"
+        }
+    }
+}
